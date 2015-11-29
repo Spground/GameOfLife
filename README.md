@@ -10,5 +10,6 @@ After activity, i am interested in the problem , so i finish a simple demo based
 The LifeGame Class is the Algorithm, which contains tow core methods, one is getting the numbers of living neighbors, the other 
 one is getting the  cell's status in next generation by giving a cell's current status.
 
-
+#The Gif
+![image](https://github.com/Spground/GameOfLife/show.gif)
 
